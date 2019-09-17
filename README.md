@@ -1,6 +1,17 @@
-# prueba
+## Presentaciones usando Javascrip
 
-// Teclas útiles:
+1) Git Para Window, (como clonar el repo rearurales con el branch sh-pages)
+
+2) Editor de texto para window (sublime)
+
+3) para subir a la web (git-huib) en la terminal:
+- en prueba git:(gh-pages):
+ git status  
+ git add "archivos modificados"
+ git commit -m "descripcion del cambio"
+ git push origin gh-pages
+
+// __Teclas útiles__:
 -  ESC muestra el esquema de la presentación
 -  Control o Alt + click hace zoom en donde hice click
 - B o . ponen negro el fondo de la presentacion
