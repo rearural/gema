@@ -7,6 +7,7 @@
 3) Abrir el archivo tutorial.html con el navegador y con sublime
 
 4) Caracteristicas de Reveals:
+5)
 
 __Teclas útiles durante una presentación__:
 -  ESC muestra el esquema de la presentación
