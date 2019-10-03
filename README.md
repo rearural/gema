@@ -46,6 +46,7 @@ _<link rel="stylesheet" href="css/theme/color.css" id="theme">_ pudiendo cambiar
 - __cambiar la transicion de fondo de una diapositiva a otra__
   <section data-transition="convex" data-background="white" data-background-transition="zoom">
 	donde ahi el texto aparece de forma "convex" el fondo pasa a ser blanco y la transicion de fondo es con "zoom"
+otras: none/fade/slide/convex/concave/zoom
 
 // imagen para que sea el fondo
 <section data-background="imagen.jpg">
